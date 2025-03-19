@@ -16,6 +16,7 @@ Technologies Used
 
 ## **General Information**
 The dataset consists of 2,357 images representing both malignant and benign oncological conditions, obtained from the International Skin Imaging Collaboration (ISIC). These images were organized according to the classification provided by ISIC, with each category containing an equal number of images.
+
 <img width="762" alt="Screenshot 2025-03-19 at 4 37 32 PM" src="https://github.com/user-attachments/assets/8a6f21e4-16ca-4686-bb73-e876f1580f04" />
 
 
