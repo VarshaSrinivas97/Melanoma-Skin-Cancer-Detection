@@ -7,11 +7,11 @@ In the realm of cancer, there exist over 200 distinct forms, with melanoma stand
 The goal is to develop a CNN-based model capable of accurately detecting melanoma, a type of cancer that can be fatal if not identified early, responsible for 75% of skin cancer-related deaths. A system that can analyze images and notify dermatologists about the presence of melanoma has the potential to significantly reduce the manual effort involved in diagnosis.
 
 ## **Table of Contents**
-General Information
-CNN Architecture Design
-Model Summary
-Model Evaluation
-Technologies Used
+1. General Information
+2. CNN Architecture Design
+3. Model Summary
+4. Model Evaluation
+5. Technologies Used
 
 
 ## **General Information**
@@ -60,10 +60,10 @@ Here is a step-by-step breakdown of the final CNN architecture:
 
 
 ## **Technologies Used**
-Python - version 3.11.4
-Matplotlib - version 3.7.1
-Numpy - version 1.24.3
-Pandas - version 1.5.3
-Seaborn - version 0.12.2
-Tensorflow - version 2.15.0
+- Python - version 3.11.4
+- Matplotlib - version 3.7.1
+- Numpy - version 1.24.3
+- Pandas - version 1.5.3
+- Seaborn - version 0.12.2
+- Tensorflow - version 2.15.0
 
